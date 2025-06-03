@@ -1,8 +1,3 @@
-"# SmartNotes-AI" 
-aHere is a suggested README template for your SmartNotes-AI project. It covers the project overview, features, setup, usage, and contribution guidelines. You can customize it further to better fit your project’s specifics:
-
----
-
 # SmartNotes-AI
 
 SmartNotes-AI is an intelligent note-taking application powered by AI, designed to help users organize, summarize, and retrieve their notes efficiently. Built primarily with TypeScript, this project leverages modern web technologies to offer a seamless and smart note management experience.
